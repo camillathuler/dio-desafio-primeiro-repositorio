@@ -1,0 +1,7 @@
+* Git -> CLI (Comando Line Interface), usando o terminal.
+
+* Windows
+	- cd: navegar nas pastas;
+	- dir: listar diretórios;
+	- mkdir: criar uma pasta;
+	- del/rmdir
